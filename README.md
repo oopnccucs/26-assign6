@@ -1,6 +1,6 @@
 # OOP Assignment #6
 
-- Due: 2026/6/2 23:59:59
+- Due: 2026/6/9 23:59:59
 - Author: 111703003 廖經翔
 - Contact: <111703003@g.nccu.edu.tw>
 
@@ -166,7 +166,7 @@ To run the program:
 
 ### Submit the assignment
 
-- The Github repository should inherit from Assignment 5.
+- The Github repository should inherit from Assignment 6.
 - To submit the assignment, please use the following command to commit:
 ```
 git commit -m “feat:Assignment5 submit”
